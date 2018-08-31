@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2054c98a801644742b256c56f6de7fa5
+timeCreated: 1535209694
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arzubov: {instanceID: 0}
+  - bullet: {fileID: 1886212067054288, guid: 77bf49a25238ce94f81194f9c6143898, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{CEA7DE33-E523-B24B-7C68-50E360F9AF8D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spikes.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="66" Column="22" />
+      <File FileName="Assets/Scripts/GameScript.cs" Line="116" Column="4" />
+      <File FileName="Assets/Scripts/Effect.cs" Line="24" Column="6" />
+      <File FileName="Assets/Scripts/MenuScript.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/settingsScript.cs" Line="21" Column="97" />
+      <File FileName="Assets/Scripts/Spikes.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="17" Column="18" />
+      <File FileName="Assets/Scripts/Health.cs" Line="5" Column="22" />
+      <File FileName="Assets/Scripts/Move.cs" Line="28" Column="2" />
+      <File FileName="Assets/Scripts/KrinjeEnemy.cs" Line="47" Column="40" />
+      <File FileName="Assets/Scripts/HealthFlex.cs" Line="21" Column="6" />
+      <File FileName="Assets/Scripts/HealthKolya.cs" Line="22" Column="40" />
+      <File FileName="Assets/Scripts/HealthPlayer.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/Button.cs" Line="26" Column="33" />
+      <File FileName="Assets/Scripts/Siga.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/LolCoinScript.cs" Line="13" Column="17" />
+      <File FileName="Assets/Scripts/EnemyScript.cs" Line="23" Column="33" />
+      <File FileName="Assets/Scripts/ArzubovEnemy.cs" Line="36" Column="43" />
+      <File FileName="Assets/Scripts/EffectSoundHelper.cs" Line="18" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

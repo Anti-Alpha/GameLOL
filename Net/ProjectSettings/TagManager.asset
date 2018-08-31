@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - ground
+  - Spikes
+  - batut
+  - Lestnica
+  - Break
+  - Information
+  - Exit
+  - Settings
+  - OFF
+  - ON
+  - backToMenu
+  - Levels
+  - Play
+  - Retry
+  - lolCoin
+  - pause
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3925877511
+    locked: 0
+  - name: Platform
+    uniqueID: 1797947031
+    locked: 0
+  - name: Player
+    uniqueID: 1170009627
+    locked: 0
+  - name: Bullet
+    uniqueID: 4192264621
+    locked: 0
+  - name: Camera
+    uniqueID: 2806109039
+    locked: 0
