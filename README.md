@@ -1,4 +1,5 @@
 # GameLOL
 Simple Arcade/Platformer Unity
 
-Just a game
+Platformer game created by NG Studio
+
