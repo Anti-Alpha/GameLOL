@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{CEA7DE33-E523-B24B-7C68-50E360F9AF8D}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spikes.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LolCoinScript.cs">
     <Files>
       <File FileName="Assets/Scripts/PlayerScript.cs" Line="66" Column="22" />
       <File FileName="Assets/Scripts/GameScript.cs" Line="116" Column="4" />
@@ -20,11 +20,25 @@
       <File FileName="Assets/Scripts/EnemyScript.cs" Line="23" Column="33" />
       <File FileName="Assets/Scripts/ArzubovEnemy.cs" Line="36" Column="43" />
       <File FileName="Assets/Scripts/EffectSoundHelper.cs" Line="18" Column="21" />
+      <File FileName="Assets/Scripts/BulletsPhysics.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Net" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LolCoinScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bc9b6833-b843-4423-aa1f-a6b642088891" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
